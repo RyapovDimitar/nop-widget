@@ -1,0 +1,11 @@
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\bin\Release\netcoreapp2.2\Nop.Core.deps.json
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\bin\Release\netcoreapp2.2\Nop.Core.runtimeconfig.json
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\bin\Release\netcoreapp2.2\Nop.Core.runtimeconfig.dev.json
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\bin\Release\netcoreapp2.2\Nop.Core.dll
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\bin\Release\netcoreapp2.2\Nop.Core.pdb
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\obj\Release\netcoreapp2.2\Nop.Core.csprojAssemblyReference.cache
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\obj\Release\netcoreapp2.2\Nop.Core.csproj.CoreCompileInputs.cache
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\obj\Release\netcoreapp2.2\Nop.Core.AssemblyInfoInputs.cache
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\obj\Release\netcoreapp2.2\Nop.Core.AssemblyInfo.cs
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\obj\Release\netcoreapp2.2\Nop.Core.dll
+Z:\nop-widget\nop-widget\Libraries\Nop.Core\obj\Release\netcoreapp2.2\Nop.Core.pdb

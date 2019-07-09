@@ -1,0 +1,15 @@
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.csproj.CopyComplete
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.dll
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Payments.Manual\obj\Release\netcoreapp2.2\Nop.Plugin.Payments.Manual.pdb

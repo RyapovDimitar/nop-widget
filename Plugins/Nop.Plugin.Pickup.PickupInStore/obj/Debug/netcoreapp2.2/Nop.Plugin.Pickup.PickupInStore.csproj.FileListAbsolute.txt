@@ -1,0 +1,17 @@
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.dll
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.pdb
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csprojAssemblyReference.cache
