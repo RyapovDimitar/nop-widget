@@ -10,7 +10,6 @@ Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTo
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb
-Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csprojAssemblyReference.cache
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CoreCompileInputs.cache
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs

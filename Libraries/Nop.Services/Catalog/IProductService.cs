@@ -34,6 +34,13 @@ namespace Nop.Services.Catalog
         IList<Product> GetAllProductsDisplayedOnHomepage();
 
         /// <summary>
+        /// Gets all the products.
+        /// </summary>
+        /// <returns>A list, containing all products from the product
+        /// repository.</returns>
+        IList<Product> GetAllProducts();
+
+        /// <summary>
         /// Gets product
         /// </summary>
         /// <param name="productId">Product identifier</param>

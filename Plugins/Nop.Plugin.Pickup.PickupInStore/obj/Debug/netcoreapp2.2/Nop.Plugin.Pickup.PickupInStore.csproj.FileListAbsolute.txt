@@ -14,4 +14,3 @@ Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netco
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.dll
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.pdb
-Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csprojAssemblyReference.cache

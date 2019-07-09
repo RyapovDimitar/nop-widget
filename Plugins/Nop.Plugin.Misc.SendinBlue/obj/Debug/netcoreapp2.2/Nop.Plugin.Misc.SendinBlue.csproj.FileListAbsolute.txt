@@ -16,3 +16,4 @@ Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csproj.CopyComplete
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.dll
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.pdb
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csprojAssemblyReference.cache

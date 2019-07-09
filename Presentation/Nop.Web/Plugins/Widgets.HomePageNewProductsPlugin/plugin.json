@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "New products on homepage",
+  "SystemName": "Widgets.HomePageNewProductsPlugin",
+  "Version": "1",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Dimitar Ryapov",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.HomePageNewProductsPlugin.dll",
+  "Description": "This plugin shows the new products on the homepage."
+}

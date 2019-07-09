@@ -14,3 +14,4 @@ Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netc
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.csproj.CopyComplete
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.dll
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.pdb
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.csprojAssemblyReference.cache

@@ -267,10 +267,10 @@ Z:\nop-widget\nop-widget\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.p
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.pdb
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.pdb
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.pdb
-Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csprojAssemblyReference.cache
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csproj.CoreCompileInputs.cache
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfoInputs.cache
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfo.cs
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csproj.CopyComplete
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.dll
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.pdb
+Z:\nop-widget\nop-widget\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csprojAssemblyReference.cache

@@ -336,6 +336,22 @@ namespace Nop.Services.Catalog
         }
 
         /// <summary>
+        /// Gets all the products.
+        /// </summary>
+        /// <returns>A list, containing all products from the product
+        /// repository.</returns>
+        public IList<Product> GetAllProducts()
+        {
+            var query = from p in _productRepository.Table
+                        orderby p.Id
+                        where p.Published &&
+                        !p.Deleted
+                        select p;
+            var products = query.ToList();
+            return products;
+        }
+
+        /// <summary>
         /// Gets product
         /// </summary>
         /// <param name="productId">Product identifier</param>

@@ -33,10 +33,10 @@ Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Views\_
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.deps.json
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
 Z:\nop-widget\nop-widget\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
-Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.csprojAssemblyReference.cache
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.csproj.CoreCompileInputs.cache
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.AssemblyInfoInputs.cache
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.AssemblyInfo.cs
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.csproj.CopyComplete
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.dll
 Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.pdb
+Z:\nop-widget\nop-widget\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.NivoSlider.csprojAssemblyReference.cache
